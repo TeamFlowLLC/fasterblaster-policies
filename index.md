@@ -32,7 +32,7 @@ We share data only with the service providers we need to run the game:
 PlayFab (operated by Microsoft Corporation) — our backend platform. Stores your account ID, display name, save data, guild membership, chat messages, and gameplay events on our behalf. PlayFab's privacy practices are described at https://privacy.microsoft.com.
 Apple Inc. and Google LLC — payment processors for in-app purchases on iOS and Android respectively. They handle your payment information directly; we receive only the resulting receipt.
 Unity Technologies — provides the crash reporting service (Unity Cloud Diagnostics) used to receive crash logs from your device.
-[Ad network — TBD: e.g., Unity LevelPlay / Google AdMob] — serves the ads shown in the game and receives the advertising data described under "Advertising" below.
+Unity LevelPlay (Unity Technologies, including its mediation partners) — serves the ads shown in the game and receives the advertising data described under "Advertising" below.
 We share your display name and chat messages with other players in your guild so that guild and chat features work. Outside your guild, your display name and gameplay are not shared.
 We do not sell your data to data brokers.
 Where your data is stored
